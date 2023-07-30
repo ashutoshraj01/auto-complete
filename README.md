@@ -1,6 +1,6 @@
 ### Steps to run the project
 
-- Once you have unzipped the project.
+
 - Make use you have npm, react & node installed on your system.
 - You can check whether they are present or not
   npm --version
